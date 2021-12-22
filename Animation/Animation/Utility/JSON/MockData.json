@@ -1,0 +1,1639 @@
+[
+        {
+          "id": "c6ahqsvt683hc4njv0cg",
+          "title": "Main",
+          "tracks": [
+            {
+              "id": "bvv93ilj12gphg9etp8g",
+              "title": "Gold Stick",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Tiara",
+              "season": 4,
+              "episode": 1,
+              "parent": {
+                "title": "The Crown",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  },
+                  {
+                    "number": 4,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/logo-bvv93ilj12gphg9etp9g.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/DIdPOPc0BR-iHpVeLjkuLPfDfDyNPxc0tvgDtcijL1U/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/kPSABJM8x3VJAceV1i_UeFmU4Q1UdEOcsA1Mpt6zMdo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/background-c6155563vqp4o7c823jg.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "bv7qkgkr0o7q8eqvkhdg",
+              "title": "Biggie: I Got a Story to Tell",
+              "titleType": "movie",
+              "leatherTitle": "Biggie",
+              "season": 0,
+              "episode": 0,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bv7qkgkr0o7q8eqvkhdg/logo-c2r2ear58ajkgiqc56mg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ksBOVIBWr0DkivqUxhXwaPJcGel8vechl-k3-lc5bng/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2N3FrZ2tyMG83cThlcXZraGRnL2xvZ28tYzJyMmVhcjU4YWprZ2lxYzU2bWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/V_rKkymgZiojHpH8RItSs-Yxs73HyZIo2SYbSpFdJdM/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2N3FrZ2tyMG83cThlcXZraGRnL2xvZ28tYzJyMmVhcjU4YWprZ2lxYzU2bWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bv7qkgkr0o7q8eqvkhdg/background-c617nre3vqp4o7c829f0.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "40873db8-7210-45b1-80a8-f77ad59f8c45",
+              "title": "Episode IV",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Dance",
+              "season": 1,
+              "episode": 4,
+              "parent": {
+                "title": "The Last Dance",
+                "leatherTitle": "",
+                "titleType": "tvMiniSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 4,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/other/public/original_content_media/logos/The_First_Dance3x.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/uCPNHA8eHDup53zf62F4PZACfNIVJdAtJBzDUvaJGEk/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9vdGhlci9wdWJsaWMvb3JpZ2luYWxfY29udGVudF9tZWRpYS9sb2dvcy9UaGVfRmlyc3RfRGFuY2UzeC5wbmc.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/zUp6n9BFyOzaBQu7E9TnSksmsKTDdaAMQgS_m4JLsLc/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9vdGhlci9wdWJsaWMvb3JpZ2luYWxfY29udGVudF9tZWRpYS9sb2dvcy9UaGVfRmlyc3RfRGFuY2UzeC5wbmc.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/40873db8-7210-45b1-80a8-f77ad59f8c45/background-c6158re3vqp4o7c823u0.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c5t74pg9g1e57mcg84s0",
+              "title": "Lost in Los Angeles",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Hotel Cecil - ML FP",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/logo-c5t74po9g1e57mcg84tg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/jSyYgII770eGVl5Af87UL2vaht_59vDiDunEM0mj7Kw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/qKempVx9y-aeH93JjOgtOaUjVCyt9th95XKkmBlvnUY/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/background-c5t74po9g1e57mcg84sg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/cEO0776guLyTsRXRnmU2ICwn4CeZ3LvrJZhtR5qA-wQ/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/mMB3lLJW2gI-Vk4LmAE_TCVSRDtV-9Ik3ZCUjYM1x5o/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c4jj72ofpeae84fujdd0",
+              "title": "The One Where Monica Gets a Roommate",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Friends",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "Friends",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4jj72ofpeae84fujdd0/logo-c4jj738fpeae84fujdeg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/2vr2WH2mZc6zANwOlexuNHsIWiyZyLI-Vl6XcGQtvus/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2xvZ28tYzRqajczOGZwZWFlODRmdWpkZWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/c_aN86CWqhG3I9XAyUA5TC-Slra4G7ZV-D1I8KDTpi4/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2xvZ28tYzRqajczOGZwZWFlODRmdWpkZWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4jj72ofpeae84fujdd0/background-c4jj730fpeae84fujddg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/01KnQL4ne2yT4-6rvuFzs4wh_ElmQT7Flji8m9d-qa4/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2JhY2tncm91bmQtYzRqajczMGZwZWFlODRmdWpkZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/5FCB9lh2lLR5Rj_zlWeJ-MCbQ38S-VVa9fvmTJ9XKVM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2JhY2tncm91bmQtYzRqajczMGZwZWFlODRmdWpkZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "c6aij4nt683uc3lqa2h0",
+          "title": "Horror",
+          "tracks": [
+            {
+              "id": "c02bf65j12gs308rj7q0",
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Stranger Stuff",
+              "season": 1,
+              "episode": 2,
+              "parent": {
+                "title": "Stranger Things",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c02bf65j12gs308rj7q0/logo-c02bf6dj12gs308rj7rg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ONi7fNCV0ihHc1ABdAwtmqtumV5u7-lsgelGfhrOnAI/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2xvZ28tYzAyYmY2ZGoxMmdzMzA4cmo3cmcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/Aon19YsZBaGR8nkJTCK9V39DY80i9uBoOMuK3jlVCxo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2xvZ28tYzAyYmY2ZGoxMmdzMzA4cmo3cmcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c02bf65j12gs308rj7q0/background-c02bf6dj12gs308rj7r0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/8kkLhuCANHsM8cl_Fb1Q8IJ-Pao-oCGsj3ExuuEHP7Q/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2JhY2tncm91bmQtYzAyYmY2ZGoxMmdzMzA4cmo3cjAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/eYTYtEZUmENAF9ly4SXKQUrk2Od5R4Jlb5O8fJi7aH4/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2JhY2tncm91bmQtYzAyYmY2ZGoxMmdzMzA4cmo3cjAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3ejp82upbmk589avt50",
+              "title": "Roadhouse Blues",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Punisher",
+              "season": 2,
+              "episode": 1,
+              "parent": {
+                "title": "The Punisher",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 2,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/logo-c3eottiupbmk589b09s0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/xpkw4mNU4dnNnpu3hV54FSkzDZ0UB6eU71S-jpCFJIw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/HisqlVK79HMB_QCLi7rIQt6-yIW9bpPrSctf84GwYdc/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/background-c3eot32upbmk589b09o0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/l-IFImWGxpBZdfSLxapscjuoS1uK1yPQS1Z6b0Jqd98/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/vqPUTm4pioIR7O-gMHnZEj9-ymLHETyyY4JH0RJ-eyM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c6aiiant683uc3lqa2d0",
+              "title": "The One with the Sonogram at the End",
+              "titleType": "tvEpisode",
+              "leatherTitle": "People",
+              "season": 1,
+              "episode": 2,
+              "parent": {
+                "title": "Friends",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c6aiiant683uc3lqa2d0/logo-c6aiiavt683uc3lqa2eg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/9SBpijGwdR2XZWY2aUgFnpAWVUjt8dib1F-HC8KU8g0/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M2YWlpYW50NjgzdWMzbHFhMmQwL2xvZ28tYzZhaWlhdnQ2ODN1YzNscWEyZWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/OopFi5hK9OiKgNUatInHDFns8Ckh8sQ4vJXqg3BZSQs/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M2YWlpYW50NjgzdWMzbHFhMmQwL2xvZ28tYzZhaWlhdnQ2ODN1YzNscWEyZWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c6aiiant683uc3lqa2d0/background-c6aiiavt683uc3lqa2dg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/B0xfUK9AC-vtwglbVuWIbSS5v-387ZvG4eStN2gtsuM/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M2YWlpYW50NjgzdWMzbHFhMmQwL2JhY2tncm91bmQtYzZhaWlhdnQ2ODN1YzNscWEyZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/3hVFtRYJBDJ0R_5cxbiZu-JFzIS9A-VvpAZs3wBK5kM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M2YWlpYW50NjgzdWMzbHFhMmQwL2JhY2tncm91bmQtYzZhaWlhdnQ2ODN1YzNscWEyZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "bvrn775j12gurai55os0",
+              "title": "Back to the Future",
+              "titleType": "movie",
+              "leatherTitle": "Rear to The Future",
+              "season": 0,
+              "episode": 0,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvrn775j12gurai55os0/logo-bvrn77dj12gurai55ot0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/u_nXjoSStN3XpJXH4D_Ff6a4ERIFB0tSzjsCNfZiuhY/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2cm43NzVqMTJndXJhaTU1b3MwL2xvZ28tYnZybjc3ZGoxMmd1cmFpNTVvdDAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/T5mWjhvqxzmNjA0Mh2FIMGj0UOtufGTloWbfqrcrV3Q/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2cm43NzVqMTJndXJhaTU1b3MwL2xvZ28tYnZybjc3ZGoxMmd1cmFpNTVvdDAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvrn775j12gurai55os0/background-bvrn77dj12gurai55osg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/2f47BscaHam0lUjtVPpWnVL3imBaXIJEicdc3p_8Nck/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2cm43NzVqMTJndXJhaTU1b3MwL2JhY2tncm91bmQtYnZybjc3ZGoxMmd1cmFpNTVvc2cuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/vcghJaN4spiqfdQV2I-81u8NnvVFY9UcIJsraUs0Qhc/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2cm43NzVqMTJndXJhaTU1b3MwL2JhY2tncm91bmQtYnZybjc3ZGoxMmd1cmFpNTVvc2cuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c4j5a8gfpeae84fuifl0",
+              "title": "Pilot",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Little Bang Theory",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "The Big Bang Theory",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4j5a8gfpeae84fuifl0/logo-c4j5a90fpeae84fuifmg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/QoXjYNCNAdAW1D8Sw4djMoiV4RPEa9tgoyIJAh4_-XE/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2xvZ28tYzRqNWE5MGZwZWFlODRmdWlmbWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ZHp6yA2Sk_MNmSjnNjethIYFe5S23Ypa7-dQaDKaMcE/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2xvZ28tYzRqNWE5MGZwZWFlODRmdWlmbWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4j5a8gfpeae84fuifl0/background-c4j5a8ofpeae84fuiflg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/3y60TOm2UmWYBRYSby8vGPwLN-SnWTb-1ikDjr_zF9s/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2JhY2tncm91bmQtYzRqNWE4b2ZwZWFlODRmdWlmbGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/dlhGgiVoeMA-lbiw1G27CBpYv3972UDiqf8-C10jymc/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2JhY2tncm91bmQtYzRqNWE4b2ZwZWFlODRmdWlmbGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "c6apvivt683uc3lqaidg",
+          "title": "Documentaries",
+          "tracks": [
+            {
+              "id": "40873db8-7210-45b1-80a8-f77ad59f8c45",
+              "title": "Episode IV",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Dance",
+              "season": 1,
+              "episode": 4,
+              "parent": {
+                "title": "The Last Dance",
+                "leatherTitle": "",
+                "titleType": "tvMiniSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 4,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/other/public/original_content_media/logos/The_First_Dance3x.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/uCPNHA8eHDup53zf62F4PZACfNIVJdAtJBzDUvaJGEk/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9vdGhlci9wdWJsaWMvb3JpZ2luYWxfY29udGVudF9tZWRpYS9sb2dvcy9UaGVfRmlyc3RfRGFuY2UzeC5wbmc.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/zUp6n9BFyOzaBQu7E9TnSksmsKTDdaAMQgS_m4JLsLc/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9vdGhlci9wdWJsaWMvb3JpZ2luYWxfY29udGVudF9tZWRpYS9sb2dvcy9UaGVfRmlyc3RfRGFuY2UzeC5wbmc.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/40873db8-7210-45b1-80a8-f77ad59f8c45/background-c6158re3vqp4o7c823u0.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "bvv93ilj12gphg9etp8g",
+              "title": "Gold Stick",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Tiara",
+              "season": 4,
+              "episode": 1,
+              "parent": {
+                "title": "The Crown",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  },
+                  {
+                    "number": 4,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/logo-bvv93ilj12gphg9etp9g.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/DIdPOPc0BR-iHpVeLjkuLPfDfDyNPxc0tvgDtcijL1U/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/kPSABJM8x3VJAceV1i_UeFmU4Q1UdEOcsA1Mpt6zMdo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/background-c6155563vqp4o7c823jg.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c5t74pg9g1e57mcg84s0",
+              "title": "Lost in Los Angeles",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Hotel Cecil - ML FP",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/logo-c5t74po9g1e57mcg84tg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/jSyYgII770eGVl5Af87UL2vaht_59vDiDunEM0mj7Kw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/qKempVx9y-aeH93JjOgtOaUjVCyt9th95XKkmBlvnUY/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/background-c5t74po9g1e57mcg84sg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/cEO0776guLyTsRXRnmU2ICwn4CeZ3LvrJZhtR5qA-wQ/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/mMB3lLJW2gI-Vk4LmAE_TCVSRDtV-9Ik3ZCUjYM1x5o/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c05bua5j12gs308rpop0",
+              "title": "Cult of Personality",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Tiger Exotic",
+              "season": 1,
+              "episode": 2,
+              "parent": {
+                "title": "Tiger King",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  },
+                  {
+                    "number": 2,
+                    "episodes": [
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c05bua5j12gs308rpop0/logo-c05bualj12gs308rpoq0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ge_Fr8E0suC1x4sIZEi2n65nFk1vqMoZ2V3G3FXzKrw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwNWJ1YTVqMTJnczMwOHJwb3AwL2xvZ28tYzA1YnVhbGoxMmdzMzA4cnBvcTAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/_c49stc4KERGtO9sCGtktZBkmzbkmo67u2EzIT32WHo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwNWJ1YTVqMTJnczMwOHJwb3AwL2xvZ28tYzA1YnVhbGoxMmdzMzA4cnBvcTAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c05bua5j12gs308rpop0/background-c6153r63vqp4o7c823c0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/LSm9JgiZW4T9rXDgHqMDlaw8kbPU3zq_-NkYC1dz_9c/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwNWJ1YTVqMTJnczMwOHJwb3AwL2JhY2tncm91bmQtYzYxNTNyNjN2cXA0bzdjODIzYzAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/IwNmOic6K2AbZiJlov7mft6F2zz3s0nkyNHfwefyyQQ/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwNWJ1YTVqMTJnczMwOHJwb3AwL2JhY2tncm91bmQtYzYxNTNyNjN2cXA0bzdjODIzYzAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "bv7qkgkr0o7q8eqvkhdg",
+              "title": "Biggie: I Got a Story to Tell",
+              "titleType": "movie",
+              "leatherTitle": "Biggie",
+              "season": 0,
+              "episode": 0,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bv7qkgkr0o7q8eqvkhdg/logo-c2r2ear58ajkgiqc56mg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ksBOVIBWr0DkivqUxhXwaPJcGel8vechl-k3-lc5bng/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2N3FrZ2tyMG83cThlcXZraGRnL2xvZ28tYzJyMmVhcjU4YWprZ2lxYzU2bWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/V_rKkymgZiojHpH8RItSs-Yxs73HyZIo2SYbSpFdJdM/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2N3FrZ2tyMG83cThlcXZraGRnL2xvZ28tYzJyMmVhcjU4YWprZ2lxYzU2bWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bv7qkgkr0o7q8eqvkhdg/background-c617nre3vqp4o7c829f0.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "c6aq06nt683uc3lqaifg",
+          "title": "adventure",
+          "tracks": [
+            {
+              "id": "c02bf65j12gs308rj7q0",
+              "title": "Chapter Two: The Weirdo on Maple Street",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Stranger Stuff",
+              "season": 1,
+              "episode": 2,
+              "parent": {
+                "title": "Stranger Things",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c02bf65j12gs308rj7q0/logo-c02bf6dj12gs308rj7rg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ONi7fNCV0ihHc1ABdAwtmqtumV5u7-lsgelGfhrOnAI/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2xvZ28tYzAyYmY2ZGoxMmdzMzA4cmo3cmcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/Aon19YsZBaGR8nkJTCK9V39DY80i9uBoOMuK3jlVCxo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2xvZ28tYzAyYmY2ZGoxMmdzMzA4cmo3cmcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c02bf65j12gs308rj7q0/background-c02bf6dj12gs308rj7r0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/8kkLhuCANHsM8cl_Fb1Q8IJ-Pao-oCGsj3ExuuEHP7Q/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2JhY2tncm91bmQtYzAyYmY2ZGoxMmdzMzA4cmo3cjAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/eYTYtEZUmENAF9ly4SXKQUrk2Od5R4Jlb5O8fJi7aH4/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MwMmJmNjVqMTJnczMwOHJqN3EwL2JhY2tncm91bmQtYzAyYmY2ZGoxMmdzMzA4cmo3cjAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3ejp82upbmk589avt50",
+              "title": "Roadhouse Blues",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Punisher",
+              "season": 2,
+              "episode": 1,
+              "parent": {
+                "title": "The Punisher",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 2,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/logo-c3eottiupbmk589b09s0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/xpkw4mNU4dnNnpu3hV54FSkzDZ0UB6eU71S-jpCFJIw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/HisqlVK79HMB_QCLi7rIQt6-yIW9bpPrSctf84GwYdc/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/background-c3eot32upbmk589b09o0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/l-IFImWGxpBZdfSLxapscjuoS1uK1yPQS1Z6b0Jqd98/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/vqPUTm4pioIR7O-gMHnZEj9-ymLHETyyY4JH0RJ-eyM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3i3f0iupbmg4oungmhg",
+              "title": "The Boyfriend",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Mozart in the Jungle",
+              "season": 4,
+              "episode": 1,
+              "parent": {
+                "title": "Mozart in the Jungle",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 4,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3i3f0iupbmg4oungmhg/logo-c3i3f12upbmg4oungmj0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/pECQqTx62MeXtJFhSp5hfmJexqx9cIFAFoqFXAkkSHo/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2xvZ28tYzNpM2YxMnVwYm1nNG91bmdtajAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/IU1SSg7ZHlVRexKeoIcmEsxYuXUFx26syg8Q3zYlRro/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2xvZ28tYzNpM2YxMnVwYm1nNG91bmdtajAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3i3f0iupbmg4oungmhg/background-c3i3f0qupbmg4oungmi0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/Ibx6bei4POwLf0NWhbYRL8evFJ3hN65RRtNPTDmx80A/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2JhY2tncm91bmQtYzNpM2YwcXVwYm1nNG91bmdtaTAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/jhCFjwIpdKkgLCPVHqc5FE71ehkAY472fhvoOWKY4OM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2JhY2tncm91bmQtYzNpM2YwcXVwYm1nNG91bmdtaTAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "bvv93ilj12gphg9etp8g",
+              "title": "Gold Stick",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Tiara",
+              "season": 4,
+              "episode": 1,
+              "parent": {
+                "title": "The Crown",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  },
+                  {
+                    "number": 4,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/logo-bvv93ilj12gphg9etp9g.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/DIdPOPc0BR-iHpVeLjkuLPfDfDyNPxc0tvgDtcijL1U/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/kPSABJM8x3VJAceV1i_UeFmU4Q1UdEOcsA1Mpt6zMdo/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2J2djkzaWxqMTJncGhnOWV0cDhnL2xvZ28tYnZ2OTNpbGoxMmdwaGc5ZXRwOWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/bvv93ilj12gphg9etp8g/background-c6155563vqp4o7c823jg.png",
+                "alts": null,
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c5t74pg9g1e57mcg84s0",
+              "title": "Lost in Los Angeles",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Hotel Cecil - ML FP",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "Crime Scene: The Vanishing at the Cecil Hotel",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/logo-c5t74po9g1e57mcg84tg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/jSyYgII770eGVl5Af87UL2vaht_59vDiDunEM0mj7Kw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/qKempVx9y-aeH93JjOgtOaUjVCyt9th95XKkmBlvnUY/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2xvZ28tYzV0NzRwbzlnMWU1N21jZzg0dGcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c5t74pg9g1e57mcg84s0/background-c5t74po9g1e57mcg84sg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/cEO0776guLyTsRXRnmU2ICwn4CeZ3LvrJZhtR5qA-wQ/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/mMB3lLJW2gI-Vk4LmAE_TCVSRDtV-9Ik3ZCUjYM1x5o/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M1dDc0cGc5ZzFlNTdtY2c4NHMwL2JhY2tncm91bmQtYzV0NzRwbzlnMWU1N21jZzg0c2cucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "c6aq23ft683uc3lqaikg",
+          "title": "Cartoon",
+          "tracks": [
+            {
+              "id": "c3e2a22upbmq4oj5en1g",
+              "title": "The Deserter",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Airbender",
+              "season": 1,
+              "episode": 16,
+              "parent": {
+                "title": "Avatar: The Last Airbender",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 16,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 17,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 18,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3e2a22upbmq4oj5en1g/logo-c3e2a2iupbmq4oj5en30.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/JG1UJzp0Qc0S6w1FmXioMOlWuIhb30PYEXH6Sljxa0E/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2xvZ28tYzNlMmEyaXVwYm1xNG9qNWVuMzAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/6hTRQxwLX-DQx1SbwDq8ob-NJd4kBAbehlhJgTjTyqk/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2xvZ28tYzNlMmEyaXVwYm1xNG9qNWVuMzAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3e2a22upbmq4oj5en1g/background-c3e2a2iupbmq4oj5en20.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/uAKRXtRJMiXSRbiEnCezpUdWw8D56GZieUWipmff0Y8/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2JhY2tncm91bmQtYzNlMmEyaXVwYm1xNG9qNWVuMjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/JUzaQE3-Pf93bKMOUnftv6Wa9WMGMTccXtP5TVwnEDc/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2JhY2tncm91bmQtYzNlMmEyaXVwYm1xNG9qNWVuMjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3m9olaupbmvoeia4c50",
+              "title": "The Northern Air Temple",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Airbender",
+              "season": 1,
+              "episode": 17,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3m9olaupbmvoeia4c50/logo-c3m9oliupbmvoeia4c6g.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/1KFiIEHsoJdsTUo3U1c1JmLUwGVxow7ucw49c2vrpng/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzbTlvbGF1cGJtdm9laWE0YzUwL2xvZ28tYzNtOW9saXVwYm12b2VpYTRjNmcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/Bwoy6cXtLE7tgyJ_XaDbZZtu4d90oXGNARv8QoAl4oY/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzbTlvbGF1cGJtdm9laWE0YzUwL2xvZ28tYzNtOW9saXVwYm12b2VpYTRjNmcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3m9olaupbmvoeia4c50/background-c3m9oliupbmvoeia4c5g.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/pK-_2IQVqBt59nmf5E5ofMM2v2A7G_IsEjKIy4jxGlI/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzbTlvbGF1cGJtdm9laWE0YzUwL2JhY2tncm91bmQtYzNtOW9saXVwYm12b2VpYTRjNWcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/SA4Q_SQfVwJd12bLRKsHaAcKyi1jK7Wun4lCTwH1qOY/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzbTlvbGF1cGJtdm9laWE0YzUwL2JhY2tncm91bmQtYzNtOW9saXVwYm12b2VpYTRjNWcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3orujaupbmi5feh9dmg",
+              "title": "The Waterbending Master",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Airbender",
+              "season": 1,
+              "episode": 18,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3orujaupbmi5feh9dmg/logo-c3orujqupbmi5feh9do0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/iWNX3KErG6iv48iC1OsjJCQpR2pSxw1ysCsrLGG8B2E/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2Mzb3J1amF1cGJtaTVmZWg5ZG1nL2xvZ28tYzNvcnVqcXVwYm1pNWZlaDlkbzAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/9bbwWJI9Q6_iukTwOZ6tZldMOJ48ZGZT9m6x9o8BEnE/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2Mzb3J1amF1cGJtaTVmZWg5ZG1nL2xvZ28tYzNvcnVqcXVwYm1pNWZlaDlkbzAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3orujaupbmi5feh9dmg/background-c3orujiupbmi5feh9dn0.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/XDQC3-Iu2VCRD5KRPu_fXe4w0ArcJhaj6nZ3TQwK4hU/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2Mzb3J1amF1cGJtaTVmZWg5ZG1nL2JhY2tncm91bmQtYzNvcnVqaXVwYm1pNWZlaDlkbjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/CB0eKxe3Bw10cMIlQvqQdB3HVoMtx4VIvCgGpL_VhM8/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2Mzb3J1amF1cGJtaTVmZWg5ZG1nL2JhY2tncm91bmQtYzNvcnVqaXVwYm1pNWZlaDlkbjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c45bg8gfpeacg1lstub0",
+              "title": "A Home for All in the Family",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Property Brothers",
+              "season": 8,
+              "episode": 3,
+              "parent": {
+                "title": "Property Brothers - Buying + Selling",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 8,
+                    "episodes": [
+                      {
+                        "number": 3,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c45bg8gfpeacg1lstub0/logo-c45brlgfpeacg1lstv7g.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/EIGWDemotLo_T0cUdxn0kAU0JsQhBApt8cxmOEon0HU/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0NWJnOGdmcGVhY2cxbHN0dWIwL2xvZ28tYzQ1YnJsZ2ZwZWFjZzFsc3R2N2cucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/UV7Bydz-r6B6dpIsAGX5slXgKE5izJGgfNsDCQj6ncI/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0NWJnOGdmcGVhY2cxbHN0dWIwL2xvZ28tYzQ1YnJsZ2ZwZWFjZzFsc3R2N2cucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c45bg8gfpeacg1lstub0/background-c45brl8fpeacg1lstv6g.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/eZA4h29VO8JhHlkU2ZjvPZdpZfyB9NjWXpmxlJz9a9E/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0NWJnOGdmcGVhY2cxbHN0dWIwL2JhY2tncm91bmQtYzQ1YnJsOGZwZWFjZzFsc3R2NmcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/dWRd2uQNceTvDjO_dTk56xdbqqPpvM891gFM8MP0kVk/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0NWJnOGdmcGVhY2cxbHN0dWIwL2JhY2tncm91bmQtYzQ1YnJsOGZwZWFjZzFsc3R2NmcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c4jj72ofpeae84fujdd0",
+              "title": "The One Where Monica Gets a Roommate",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Friends",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "Friends",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 2,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4jj72ofpeae84fujdd0/logo-c4jj738fpeae84fujdeg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/2vr2WH2mZc6zANwOlexuNHsIWiyZyLI-Vl6XcGQtvus/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2xvZ28tYzRqajczOGZwZWFlODRmdWpkZWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/c_aN86CWqhG3I9XAyUA5TC-Slra4G7ZV-D1I8KDTpi4/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2xvZ28tYzRqajczOGZwZWFlODRmdWpkZWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4jj72ofpeae84fujdd0/background-c4jj730fpeae84fujddg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/01KnQL4ne2yT4-6rvuFzs4wh_ElmQT7Flji8m9d-qa4/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2JhY2tncm91bmQtYzRqajczMGZwZWFlODRmdWpkZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/5FCB9lh2lLR5Rj_zlWeJ-MCbQ38S-VVa9fvmTJ9XKVM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0amo3Mm9mcGVhZTg0ZnVqZGQwL2JhY2tncm91bmQtYzRqajczMGZwZWFlODRmdWpkZGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        },
+        {
+          "id": "c6aq3avt683uc3lqaio0",
+          "title": "Music",
+          "tracks": [
+            {
+              "id": "c3i3f0iupbmg4oungmhg",
+              "title": "The Boyfriend",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Mozart in the Jungle",
+              "season": 4,
+              "episode": 1,
+              "parent": {
+                "title": "Mozart in the Jungle",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 4,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3i3f0iupbmg4oungmhg/logo-c3i3f12upbmg4oungmj0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/pECQqTx62MeXtJFhSp5hfmJexqx9cIFAFoqFXAkkSHo/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2xvZ28tYzNpM2YxMnVwYm1nNG91bmdtajAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/IU1SSg7ZHlVRexKeoIcmEsxYuXUFx26syg8Q3zYlRro/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2xvZ28tYzNpM2YxMnVwYm1nNG91bmdtajAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3i3f0iupbmg4oungmhg/background-c3i3f0qupbmg4oungmi0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/Ibx6bei4POwLf0NWhbYRL8evFJ3hN65RRtNPTDmx80A/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2JhY2tncm91bmQtYzNpM2YwcXVwYm1nNG91bmdtaTAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/jhCFjwIpdKkgLCPVHqc5FE71ehkAY472fhvoOWKY4OM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzaTNmMGl1cGJtZzRvdW5nbWhnL2JhY2tncm91bmQtYzNpM2YwcXVwYm1nNG91bmdtaTAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3ermbqupbmk589b0frg",
+              "title": "Whiplash",
+              "titleType": "movie",
+              "leatherTitle": "Whiplash",
+              "season": 0,
+              "episode": 0,
+              "parent": null,
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ermbqupbmk589b0frg/logo-c3ermcaupbmk589b0ft0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/wYO3JN6mZKDY6xH31B-qGB5cLsYIZyKvUPw2amnQEss/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZXJtYnF1cGJtazU4OWIwZnJnL2xvZ28tYzNlcm1jYXVwYm1rNTg5YjBmdDAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/5yUFCmvNwNB3L_1gNn56TU-7HNdF3GLDe_PI14h6YGU/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZXJtYnF1cGJtazU4OWIwZnJnL2xvZ28tYzNlcm1jYXVwYm1rNTg5YjBmdDAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ermbqupbmk589b0frg/background-c3ermc2upbmk589b0fs0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/CdUqUSuSjCrBkLasa7vRrTcZq1fu4dlrLNcPmO1wiBg/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZXJtYnF1cGJtazU4OWIwZnJnL2JhY2tncm91bmQtYzNlcm1jMnVwYm1rNTg5YjBmczAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/iAL1ylm3bKn8EjDeL1vgqIyA3haN4d78gFGTZbxJs4M/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZXJtYnF1cGJtazU4OWIwZnJnL2JhY2tncm91bmQtYzNlcm1jMnVwYm1rNTg5YjBmczAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3ejp82upbmk589avt50",
+              "title": "Roadhouse Blues",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The Punisher",
+              "season": 2,
+              "episode": 1,
+              "parent": {
+                "title": "The Punisher",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 2,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/logo-c3eottiupbmk589b09s0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/xpkw4mNU4dnNnpu3hV54FSkzDZ0UB6eU71S-jpCFJIw/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/HisqlVK79HMB_QCLi7rIQt6-yIW9bpPrSctf84GwYdc/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2xvZ28tYzNlb3R0aXVwYm1rNTg5YjA5czAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3ejp82upbmk589avt50/background-c3eot32upbmk589b09o0.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/l-IFImWGxpBZdfSLxapscjuoS1uK1yPQS1Z6b0Jqd98/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/vqPUTm4pioIR7O-gMHnZEj9-ymLHETyyY4JH0RJ-eyM/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZWpwODJ1cGJtazU4OWF2dDUwL2JhY2tncm91bmQtYzNlb3QzMnVwYm1rNTg5YjA5bzAucG5n.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c3e2a22upbmq4oj5en1g",
+              "title": "The Deserter",
+              "titleType": "tvEpisode",
+              "leatherTitle": "The First Airbender",
+              "season": 1,
+              "episode": 16,
+              "parent": {
+                "title": "Avatar: The Last Airbender",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 16,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 17,
+                        "__typename": "Episode"
+                      },
+                      {
+                        "number": 18,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3e2a22upbmq4oj5en1g/logo-c3e2a2iupbmq4oj5en30.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/JG1UJzp0Qc0S6w1FmXioMOlWuIhb30PYEXH6Sljxa0E/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2xvZ28tYzNlMmEyaXVwYm1xNG9qNWVuMzAucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/6hTRQxwLX-DQx1SbwDq8ob-NJd4kBAbehlhJgTjTyqk/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2xvZ28tYzNlMmEyaXVwYm1xNG9qNWVuMzAucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c3e2a22upbmq4oj5en1g/background-c3e2a2iupbmq4oj5en20.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/uAKRXtRJMiXSRbiEnCezpUdWw8D56GZieUWipmff0Y8/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2JhY2tncm91bmQtYzNlMmEyaXVwYm1xNG9qNWVuMjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/JUzaQE3-Pf93bKMOUnftv6Wa9WMGMTccXtP5TVwnEDc/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2MzZTJhMjJ1cGJtcTRvajVlbjFnL2JhY2tncm91bmQtYzNlMmEyaXVwYm1xNG9qNWVuMjAuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            },
+            {
+              "id": "c4j5a8gfpeae84fuifl0",
+              "title": "Pilot",
+              "titleType": "tvEpisode",
+              "leatherTitle": "Little Bang Theory",
+              "season": 1,
+              "episode": 1,
+              "parent": {
+                "title": "The Big Bang Theory",
+                "leatherTitle": "",
+                "titleType": "tvSeries",
+                "seasons": [
+                  {
+                    "number": 1,
+                    "episodes": [
+                      {
+                        "number": 1,
+                        "__typename": "Episode"
+                      }
+                    ],
+                    "__typename": "Season"
+                  }
+                ],
+                "__typename": "Track"
+              },
+              "logoContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4j5a8gfpeae84fuifl0/logo-c4j5a90fpeae84fuifmg.png",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/QoXjYNCNAdAW1D8Sw4djMoiV4RPEa9tgoyIJAh4_-XE/auto/0/234/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2xvZ28tYzRqNWE5MGZwZWFlODRmdWlmbWcucG5n.png",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/ZHp6yA2Sk_MNmSjnNjethIYFe5S23Ypa7-dQaDKaMcE/auto/0/156/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2xvZ28tYzRqNWE5MGZwZWFlODRmdWlmbWcucG5n.png",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "backgroundContent": {
+                "sourcePath": "https://content.leatherradio.com/content/c4j5a8gfpeae84fuifl0/background-c4j5a8ofpeae84fuiflg.jpeg",
+                "alts": [
+                  {
+                    "path": "https://imgproxy.leatherradio.com/3y60TOm2UmWYBRYSby8vGPwLN-SnWTb-1ikDjr_zF9s/auto/0/1852/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2JhY2tncm91bmQtYzRqNWE4b2ZwZWFlODRmdWlmbGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  },
+                  {
+                    "path": "https://imgproxy.leatherradio.com/dlhGgiVoeMA-lbiw1G27CBpYv3972UDiqf8-C10jymc/auto/0/1334/ce/0/czM6Ly9sZWF0aGVyLXRlc3QtY29udGVudC9jb250ZW50L2M0ajVhOGdmcGVhZTg0ZnVpZmwwL2JhY2tncm91bmQtYzRqNWE4b2ZwZWFlODRmdWlmbGcuanBlZw.jpg",
+                    "__typename": "Alt"
+                  }
+                ],
+                "__typename": "Content"
+              },
+              "seasons": null,
+              "__typename": "Track"
+            }
+          ],
+          "__typename": "Category"
+        }
+      ]
